@@ -1,0 +1,26 @@
+# Python specific files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Streamlit specific files
+.streamlit/
+
+# Virtual environment and package manager
+**/*.env
+env/
+venv/
+ENV/
+.venv/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
