@@ -3,6 +3,8 @@
 # ml-training
 
 
+This repo contains sample notebooks used to practice aws ml concepts. Also a STUDY-NOTES markdown file that contains all my notes and references at the end.
+
 
 ## notebooks
 
